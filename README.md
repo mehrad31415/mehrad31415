@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad31415&count_private=true&hide=jupyter%20notebook,html,tex&theme=moltack&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad31415&count_private=true&hide=jupyter%20notebook,html,tex&theme=moltack&hide_border=true&size_weight=0.5&count_weight=0.5)
