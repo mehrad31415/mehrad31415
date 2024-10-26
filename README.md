@@ -8,6 +8,10 @@ Welcome to my GitHub! I’m Mehrad, a dedicated programmer and researcher with a
 
 Here, you can find some of my projects, contributions, and other highlights.
 
+#### 🛠️ Current Projects
+
+    Rusmart: I am currently working on a Rust project on [rusmart](https://github.com/meng-xu-cs/rusmart).
+
 #### 🌟 Github Stats
 
 [![Mehrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrad31415&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
