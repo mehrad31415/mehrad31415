@@ -18,3 +18,6 @@ Here, you can find some of my projects, contributions, and other highlights.
 
 #### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad31415&exclude=Agent-based-modelling&hide=lex,yacc,batchfile,shell,css,ejs,html,jupyter%20notebook&langs_count=5&count_private=true&theme=moltack&hide_border=true&size_weight=0.6&count_weight=0.4)
+
+
+[![Mehrad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrad31415&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
