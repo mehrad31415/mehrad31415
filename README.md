@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad31415&count_private=true&hide=Tex,javascript,shell,typescript&theme=moltack&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad31415&count_private=true&hide=HTML,Tex,javascript,shell,typescript&theme=moltack&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
