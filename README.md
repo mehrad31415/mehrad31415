@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mehrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrad31415&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Mehrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrad31415&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrad31415&hide=lex,yacc,batchfile,shell,css,ejs,html,jupyter%20notebook&langs_count=20&count_private=true&theme=moltack&hide_border=true&size_weight=0.6&count_weight=0.4)
