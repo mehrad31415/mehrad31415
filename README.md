@@ -1,5 +1,5 @@
 ## Mehrad's GitHub Profile
-Welcome to my GitHub! I’m Mehrad, a dedicated programmer and researcher with a strong focus on:
+Welcome to my GitHub! I’m Mehrad, a programmer and researcher passionate about:
 
 - Programming Languages
 - Formal Verification
