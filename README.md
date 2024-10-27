@@ -17,4 +17,4 @@ Here, you can find some of my projects, contributions, and other highlights.
 
 [![Mehrad's WakaTime stats](https://github-readme-stats-git-master-mehrads-projects-1ae55fda.vercel.app/api/wakatime?username=mehrad31415)](https://github.com/anuraghazra/github-readme-stats)
 
-<sub>**Note**: These stats reflect coding activity tracked since installing WakaTime on 27 October 2024 and **do not represent my overall coding time**.</sub>
+<sub>**Note**: These stats reflect coding activity tracked since installing WakaTime on 27^{th} of October 2024, and **do not represent my overall coding time**.</sub>
