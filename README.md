@@ -1,16 +1,12 @@
 ## Mehrad's GitHub Profile
-Welcome to my GitHub! I’m Mehrad, a programmer and researcher passionate about:
+Welcome to my GitHub! I’m Mehrad, a PhD student in computer science at the University of Waterloo. My research area is on:
 
 - Programming Languages
 - Formal Verification
 - Logic & Automated Reasoning
-- Functional Programming
+- Static Analysis
 
 Here, you can find some of my projects, contributions, and other highlights.
-
-#### 🛠️ Current Projects
-
-> 📌 **Rusmart**: I am currently working on a Rust project called [rusmart](https://github.com/meng-xu-cs/rusmart).
 
 #### 📊 Top Languages
 [![Top Langs](https://github-readme-stats-m8pp.vercel.app/api/top-langs/?username=mehrad31415&exclude_repo=github-readme-stats&hide=Makefile,lex,yacc,batchfile,shell,css,ejs,jupyter%20notebook,html&langs_count=8&count_private=true&theme=moltack&hide_border=true&size_weight=0.635&count_weight=0.365)](https://github.com/anuraghazra/github-readme-stats)
